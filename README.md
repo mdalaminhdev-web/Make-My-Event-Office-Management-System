@@ -13,10 +13,10 @@ The project uses a modular architecture where large features such as **Accounts*
 ## Project Screenshots
 
 ### Home Page
-![Sales Management](./Screenshot2026-10-14170430.png)
+![Sales Management](./Sales_Management.png)
 
 ### Admin Dashboard
-![Admin Dashboard](./Screenshot2026-10-14170451.png)
+![Admin Dashboard](./Accounts.png)
 # Table of Contents
 
 1. [Project Overview](#project-overview)
