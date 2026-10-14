@@ -10,7 +10,13 @@ The system is designed around two primary user roles:
 The project uses a modular architecture where large features such as **Accounts** and **PDF Generator** are maintained as separate top-level modules while still using the same main authentication system, backend API, Prisma schema, and MySQL/MariaDB database.
 
 ---
+## Project Screenshots
 
+### Home Page
+![Sales Management](./Screenshot 2026-10-14 170430.png)
+
+### Admin Dashboard
+![Admin Dashboard](./Screenshot 2026-10-14 170451.png)
 # Table of Contents
 
 1. [Project Overview](#project-overview)
